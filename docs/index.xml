@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Top 50 Spotify</title>
-    <link>https://example.com/</link>
+    <link>https://luciojp.github.io/top-50/</link>
     <description>Recent content on Top 50 Spotify</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Fri, 16 Mar 2018 18:44:36 -0300</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luciojp.github.io/top-50/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Top 50</title>
-      <link>https://example.com/post/top-50/</link>
+      <link>https://luciojp.github.io/top-50/post/top-50/</link>
       <pubDate>Fri, 16 Mar 2018 18:44:36 -0300</pubDate>
       
-      <guid>https://example.com/post/top-50/</guid>
+      <guid>https://luciojp.github.io/top-50/post/top-50/</guid>
       <description>Ola mundo!</description>
     </item>
     

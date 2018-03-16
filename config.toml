@@ -1,5 +1,5 @@
 title = "Top 50 Spotify"
-baseURL = "https://example.com"
+baseURL = "https://luciojp.github.io/top-50/"
 languageCode = "pt-BR"
 theme = "gohugo-theme-ananke"
 publishDir = "docs"
